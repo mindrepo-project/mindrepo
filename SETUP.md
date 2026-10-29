@@ -4,7 +4,7 @@ MindRepo is a Markdown-based knowledgebase for AI assistants, stored in a GitHub
 
 ## 1. Create your own private repository
 
-Use **Use this template** on the MindRepo repository (once enabled), select **Create a new repository**, and choose **Private**. Alternatively, create a private repository and copy the template files into it.
+Use **Use this template** on the MindRepo repository, select **Create a new repository**, and choose **Private**. Alternatively, create a private repository and copy the template files into it.
 
 Do **not** store personal information in a public repository. Git history may preserve information even after a file is deleted.
 
