@@ -4,9 +4,9 @@
 
 **Persistent, structured memory for your AI — stored in a GitHub repository you control.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](LICENSE) ![Markdown](https://img.shields.io/badge/Storage-Markdown%20%2B%20CSV-3976a8) ![No server](https://img.shields.io/badge/Server-Not%20required-6d59a5)
+[![Latest release](https://img.shields.io/github/v/release/florianpenz/mindrepo?label=release)](https://github.com/florianpenz/mindrepo/releases/latest) [![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](LICENSE) ![Markdown](https://img.shields.io/badge/Storage-Markdown%20%2B%20CSV-3976a8) ![No server](https://img.shields.io/badge/Server-Not%20required-6d59a5)
 
-[Get started](#-quick-start) · [Setup guide](SETUP.md) · [Copy setup prompt](templates/setup-prompt.md) · [How it works](#-how-it-works)
+[Latest release](https://github.com/florianpenz/mindrepo/releases/latest) · [Get started](#-quick-start) · [Setup guide](SETUP.md) · [Copy setup prompt](templates/setup-prompt.md) · [How it works](#-how-it-works)
 
 </div>
 
