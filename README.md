@@ -61,6 +61,25 @@ topics/
 
 The assistant reads the relevant instructions and files when asked or when its configured workflow calls for it. It can save updates **only when a compatible GitHub integration is available and authorized**. You can always inspect the resulting files and commits yourself.
 
+## 💡 What could you remember?
+
+MindRepo is flexible: choose the topics that matter to you. Here are some ideas — **none are created automatically**.
+
+| Topic | Examples of useful information |
+| --- | --- |
+| 🏋️ Fitness & nutrition | Training plans, dated progress, recipes, nutrition references |
+| ✈️ Travel | Itineraries, reservations, budgets, travel experiences |
+| 💻 Software & projects | Decisions, milestones, recurring issues, next steps |
+| 💰 Personal finances | Budgets, savings goals, spending summaries (never passwords or banking credentials) |
+| 🍳 Cooking | Favorite recipes, ingredient substitutions, personal adjustments |
+| 🏠 Home | Maintenance, purchases, renovation plans, warranties |
+| 📚 Learning | Study notes, progress, useful resources, open questions |
+| 🎮 Hobbies | Collections, ideas, goals, personal ratings |
+| 💼 Work | Project notes, procedures, meeting takeaways (only information you are authorized to store) |
+| 🎁 Gifts & events | Gift ideas, preferences, occasions, planning checklists |
+
+During installation, the AI can suggest topics and asks what **you** want to save. You define the rules; no topic or personal data is added without approval.
+
 ## 📦 What's included
 
 | Resource | What it's for |
