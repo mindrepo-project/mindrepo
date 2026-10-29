@@ -16,7 +16,7 @@ Capabilities depend on your assistant, account, integration permissions, and ava
 
 ## 3. Install with one prompt
 
-Copy the complete [installation prompt](templates/setup-prompt.md) into a new chat **without changing anything**. The assistant first asks which language you prefer, then asks for your private repository name. It generates topic files and finished project instructions in your chosen language; no separate translation service is needed. **The prompt already contains the architecture, rules, and setup procedure** — you don't have to write them yourself.
+Copy the complete [installation prompt](templates/setup-prompt.md) into a new chat **without changing anything**. The assistant uses your preferred language when it can reliably determine it from available context, or asks you to choose if uncertain. Then it asks for your private repository name. It generates topic files and finished project instructions in your chosen language; no separate translation service is needed. **The prompt already contains the architecture, rules, and setup procedure** — you don't have to write them yourself.
 
 The assistant checks access, asks which topics you want to remember, and designs the necessary files from your descriptions. It proposes the structure for approval **before** writing.
 
