@@ -78,7 +78,22 @@ MindRepo is flexible: choose the topics that matter to you. Here are some ideas 
 | 💼 Work | Project notes, procedures, meeting takeaways (only information you are authorized to store) |
 | 🎁 Gifts & events | Gift ideas, preferences, occasions, planning checklists |
 
-During installation, the AI can suggest topics and asks what **you** want to save. You define the rules; no topic or personal data is added without approval.
+**Choose your own topic or pick a ready-made template.** Each example below includes a topic README with recording rules, a copyable example prompt, and completely fictional demo records. During installation, the AI asks which route you prefer and adapts selected templates to your needs. **Demo data is never imported as your real history.**
+
+| Ready-made example | Explore |
+| --- | --- |
+| 🏋️ Fitness & nutrition | [Open example](templates/examples/fitness/README.md) |
+| ✈️ Travel | [Open example](templates/examples/travel/README.md) |
+| 💻 Software & projects | [Open example](templates/examples/software-projects/README.md) |
+| 💰 Personal finances | [Open example](templates/examples/finances/README.md) |
+| 🍳 Cooking | [Open example](templates/examples/cooking/README.md) |
+| 🏠 Home | [Open example](templates/examples/home/README.md) |
+| 📚 Learning | [Open example](templates/examples/learning/README.md) |
+| 🎮 Hobbies | [Open example](templates/examples/hobbies/README.md) |
+| 💼 Work | [Open example](templates/examples/work/README.md) |
+| 🎁 Gifts & events | [Open example](templates/examples/gifts-events/README.md) |
+
+No topic or personal data is added without your approval.
 
 ## 📦 What's included
 
