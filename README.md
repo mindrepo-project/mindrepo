@@ -51,17 +51,6 @@ That's it for the initial setup. For ongoing use, add the [project instructions]
 
 **Need more detail?** See the [step-by-step setup guide](SETUP.md).
 
-### Using MindRepo day to day
-
-Once your private repository is set up and your AI workspace has its project instructions, you can ask things like:
-
-> **Save:** “Remember the itinerary decisions we just made for my next trip.”  
-> **Recall:** “What have we already decided about that trip? Check my MindRepo travel topic.”
-
-Your assistant should read the relevant files before answering and confirm an update **only after the GitHub commit succeeds**. MindRepo does not automatically save every conversation.
-
-**GitHub access not working?** Check that your AI assistant has a compatible GitHub integration, that it can access **your private repository**, and that the integration has permission to read and (for saving) write files. Organisation-owned repositories may need separate approval. See [setup troubleshooting](SETUP.md#github-access-troubleshooting).
-
 ## 🔄 How it works
 
 ![Conversation ↔ AI assistant with GitHub integration ↔ private repository](assets/how-it-works.svg)
@@ -81,6 +70,15 @@ topics/
 ```
 
 The assistant reads the relevant instructions and files when asked or when its configured workflow calls for it. It can save updates **only when a compatible GitHub integration is available and authorized**. You can always inspect the resulting files and commits yourself.
+
+### Using MindRepo day to day
+
+Once your private repository is set up and your AI workspace has its project instructions, you can ask things like:
+
+> **Save:** “Remember the itinerary decisions we just made for my next trip.”  
+> **Recall:** “What have we already decided about that trip? Check my MindRepo travel topic.”
+
+Your assistant should read the relevant files before answering and confirm an update **only after the GitHub commit succeeds**. MindRepo does not automatically save every conversation.
 
 ## 💡 What could you remember?
 
