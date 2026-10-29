@@ -78,9 +78,9 @@ MindRepo is flexible: choose the topics that matter to you. Here are some ideas 
 | 💼 Work | Project notes, procedures, meeting takeaways (only information you are authorized to store) |
 | 🎁 Gifts & events | Gift ideas, preferences, occasions, planning checklists |
 
-**Choose your own topic or pick a ready-made template.** Each example below includes a topic README with recording rules, a copyable example prompt, and completely fictional demo records. During installation, the AI asks which route you prefer and adapts selected templates to your needs. **Demo data is never imported as your real history.**
+**Describe your own topic or explore an idea from the gallery.** Each example below shows possible uses, an example prompt, and fictional demonstration records. During installation, the AI uses these **only to inspire suggestions and questions**. It designs your personal files and folder structure **from scratch based on your answers**. Example content, rules, filenames, and folder layouts are **never copied into your knowledgebase**.
 
-| Ready-made example | Explore |
+| Inspiration example | Explore |
 | --- | --- |
 | 🏋️ Fitness & nutrition | [Open example](templates/examples/fitness/README.md) |
 | ✈️ Travel | [Open example](templates/examples/travel/README.md) |
