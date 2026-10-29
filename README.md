@@ -51,6 +51,17 @@ That's it for the initial setup. For ongoing use, add the [project instructions]
 
 **Need more detail?** See the [step-by-step setup guide](SETUP.md).
 
+### Using MindRepo day to day
+
+Once your private repository is set up and your AI workspace has its project instructions, you can ask things like:
+
+> **Save:** “Remember the itinerary decisions we just made for my next trip.”  
+> **Recall:** “What have we already decided about that trip? Check my MindRepo travel topic.”
+
+Your assistant should read the relevant files before answering and confirm an update **only after the GitHub commit succeeds**. MindRepo does not automatically save every conversation.
+
+**GitHub access not working?** Check that your AI assistant has a compatible GitHub integration, that it can access **your private repository**, and that the integration has permission to read and (for saving) write files. Organisation-owned repositories may need separate approval. See [setup troubleshooting](SETUP.md#github-access-troubleshooting).
+
 ## 🔄 How it works
 
 ![Conversation ↔ AI assistant with GitHub integration ↔ private repository](assets/how-it-works.svg)
@@ -128,7 +139,7 @@ MindRepo does **not** guarantee automatic retrieval in every new chat, backgroun
 
 ## 🤝 Feedback and contributions
 
-Have an idea to make MindRepo easier to use? Open an issue in this public project. You never need to share your personal knowledgebase.
+Have a question or an idea? Join [Discussions](https://github.com/mindrepo-project/mindrepo/discussions), [report a bug](https://github.com/mindrepo-project/mindrepo/issues/new/choose), or [suggest a feature](https://github.com/mindrepo-project/mindrepo/issues/new/choose). See [contribution guidelines](CONTRIBUTING.md) and [security reporting](SECURITY.md). You never need to share your personal knowledgebase.
 
 If you find MindRepo useful, consider **starring the repository** ⭐ — it helps others discover the project.
 
