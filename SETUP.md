@@ -14,6 +14,18 @@ Connect a GitHub integration that can read and, if desired, write repository fil
 
 Capabilities depend on your assistant, account, integration permissions, and available tools. MindRepo is not an application or an automatic synchronization service.
 
+## GitHub access troubleshooting
+
+If the assistant cannot read your private repository or a write fails:
+
+1. Check that the GitHub integration is connected to the correct account.
+2. Confirm that the integration can access **your private repository**, not just the public MindRepo template. If repository access is restricted, explicitly allow your private repository.
+3. Check the integration's repository permissions: reading files is required for recall, and writing files is required for saving.
+4. For repositories owned by a GitHub organisation, check whether the organisation requires separate integration authorisation or approval.
+5. Ask the assistant to **read an existing file first**, then approve a small test edit and verify the commit on GitHub.
+
+Available integration settings differ between AI assistants and accounts. If a tool is missing or a write fails, do not assume that anything was saved. Never paste access tokens into a chat to work around permission problems.
+
 ## 3. Install with one prompt
 
 Copy the complete [installation prompt](templates/setup-prompt.md) into a new chat **without changing anything**. The assistant uses your preferred language when it can reliably determine it from available context, or asks you to choose if uncertain. Then it asks for your private repository name. It generates topic files and finished project instructions in your chosen language; no separate translation service is needed. **The prompt already contains the architecture, rules, and setup procedure** — you don't have to write them yourself.
