@@ -4,9 +4,9 @@
 
 **Persistent, structured memory for your AI — stored in a GitHub repository you control.**
 
-[![Latest release](https://img.shields.io/github/v/release/florianpenz/mindrepo?label=release)](https://github.com/florianpenz/mindrepo/releases/latest) [![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](LICENSE) ![Markdown](https://img.shields.io/badge/Storage-Markdown%20%2B%20CSV-3976a8) ![No server](https://img.shields.io/badge/Server-Not%20required-6d59a5)
+[![Latest release](https://img.shields.io/github/v/release/mindrepo-project/mindrepo?label=release)](https://github.com/mindrepo-project/mindrepo/releases/latest) [![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](LICENSE) ![Markdown](https://img.shields.io/badge/Storage-Markdown%20%2B%20CSV-3976a8) ![No server](https://img.shields.io/badge/Server-Not%20required-6d59a5)
 
-[Latest release](https://github.com/florianpenz/mindrepo/releases/latest) · [Get started](#-quick-start) · [Setup guide](SETUP.md) · [Copy setup prompt](templates/setup-prompt.md) · [How it works](#-how-it-works)
+[Latest release](https://github.com/mindrepo-project/mindrepo/releases/latest) · [Get started](#-quick-start) · [Setup guide](SETUP.md) · [Copy setup prompt](templates/setup-prompt.md) · [How it works](#-how-it-works)
 
 </div>
 
@@ -29,11 +29,15 @@ You can spend months working with an AI assistant — tracking fitness, planning
 
 > **Important:** MindRepo is an open template and workflow, **not** an app, a memory service, or automatic synchronization. Reading and writing depend on your assistant's GitHub integration, permissions, and instructions.
 
+## 🏷️ Version 1.0.0
+
+MindRepo's first public release is **[v1.0.0](https://github.com/mindrepo-project/mindrepo/releases/tag/v1.0.0)**. See the [latest release](https://github.com/mindrepo-project/mindrepo/releases/latest) for release notes and future updates.
+
 ## 🚀 Quick start
 
 **You can start with a private copy in three steps:**
 
-1. **[Use this template](https://github.com/florianpenz/mindrepo/generate)** → choose **Private** for your new repository. Do not store personal information in this public template.
+1. **[Use this template](https://github.com/mindrepo-project/mindrepo/generate)** → choose **Private** for your new repository. Do not store personal information in this public template.
 2. **Connect your AI assistant to GitHub**, granting it access to your new private repository. Check that reading works before allowing edits.
 3. **[Copy the guided setup prompt](templates/setup-prompt.md)** into your assistant, paste it unchanged, and follow the prompts. The assistant detects your preferred language when available (or asks if uncertain), then asks for your repository name. Your private knowledgebase and generated instructions use your chosen language.
 
