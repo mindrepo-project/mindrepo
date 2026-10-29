@@ -14,15 +14,15 @@ Connect a GitHub integration that can read and, if desired, write repository fil
 
 Capabilities depend on your assistant, account, integration permissions, and available tools. MindRepo is not an application or an automatic synchronization service.
 
-## 3. Start the guided setup
+## 3. Install with one prompt
 
-Copy the prompt from [templates/setup-prompt.md](templates/setup-prompt.md) into a new chat. Replace the repository placeholder with your own GitHub repository name.
+Copy the complete [installation prompt](templates/setup-prompt.md) into a new chat and replace the repository placeholder with your private repository name. **The prompt already contains the architecture, rules, and setup procedure** — you don't have to write them yourself.
 
-The assistant should inspect the repository, ask about your first topic, and propose changes **before** writing.
+The assistant checks access, asks which topics you want to remember, and designs the necessary files from your descriptions. It proposes the structure for approval **before** writing.
 
-## 4. Add instructions to your AI project
+## 4. Paste the finished project instructions
 
-Use [templates/project-instructions.md](templates/project-instructions.md) as a starting point for instructions in the relevant ChatGPT project or another assistant's workspace.
+After the approved installation, the assistant fills in the [ready-made project instructions](templates/project-instructions.md) with your repository name and gives you the **complete text to copy** into your ChatGPT project or AI workspace. You do not need to design the instructions yourself.
 
 ## 5. Verify the result
 
