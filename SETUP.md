@@ -18,7 +18,7 @@ Capabilities depend on your assistant, account, integration permissions, and ava
 
 Copy the complete [installation prompt](templates/setup-prompt.md) into a new chat **without changing anything**. The assistant uses your preferred language when it can reliably determine it from available context, or asks you to choose if uncertain. Then it asks for your private repository name. It generates topic files and finished project instructions in your chosen language; no separate translation service is needed. **The prompt already contains the architecture, rules, and setup procedure** — you don't have to write them yourself.
 
-The assistant checks access, then asks whether you want to describe a **custom topic** or choose one or more [ready-made topic examples](README.md#-what-could-you-remember). Each example includes fictional demo records and sample prompts; these are never imported as your personal data. The assistant designs clean personal topic files from your choices. It proposes the structure for approval **before** writing.
+The assistant checks access, then asks whether you want to describe a **custom topic** or get inspiration from one or more [topic examples](README.md#-what-could-you-remember). Each example includes fictional demo records and sample prompts; these are never imported as your personal data. The examples are **ideas only, not templates to copy**. The assistant must not reuse their contents, filenames, directory structures, or recording rules. Instead it proposes an original personal structure based on your answers. It proposes the structure for approval **before** writing.
 
 ## 4. Paste the finished project instructions
 
