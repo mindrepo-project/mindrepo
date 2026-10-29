@@ -2,6 +2,8 @@
 
 My long-term knowledgebase is the **private** GitHub repository `YOUR_USERNAME/YOUR_PRIVATE_REPO`.
 
+**Language:** Use `YOUR_PREFERRED_LANGUAGE` for responses, new topic documentation, and knowledgebase updates unless I request otherwise. Preserve existing text in other languages unless I ask for translation. Keep filenames, repository paths, and technical identifiers unchanged. The installer replaces this placeholder with my selected language.
+
 When a request depends on saved knowledge, use an available GitHub integration to read the repository's root `README.md`, the relevant topic `README.md`, and any applicable workflow files. Do not rely on chat memory alone.
 
 For ongoing tracking topics, follow the topic's documented rules about what to record. Do not copy every chat message into the repository by default.
