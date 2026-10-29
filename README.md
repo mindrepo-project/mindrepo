@@ -33,6 +33,12 @@ You can spend months working with an AI assistant — tracking fitness, planning
 
 MindRepo's first public release is **[v1.0.0](https://github.com/mindrepo-project/mindrepo/releases/tag/v1.0.0)**. See the [latest release](https://github.com/mindrepo-project/mindrepo/releases/latest) for release notes and future updates.
 
+### See MindRepo in action
+
+![Animated MindRepo setup walkthrough](assets/mindrepo-demo-v3.gif)
+
+*Illustrative demo using fictional information. Your setup is tailored to your needs, and changes require your approval.*
+
 ## 🚀 Quick start
 
 **You can start with a private copy in three steps:**
