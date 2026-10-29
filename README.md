@@ -35,7 +35,7 @@ You can spend months working with an AI assistant — tracking fitness, planning
 
 1. **[Use this template](https://github.com/florianpenz/mindrepo/generate)** → choose **Private** for your new repository. Do not store personal information in this public template.
 2. **Connect your AI assistant to GitHub**, granting it access to your new private repository. Check that reading works before allowing edits.
-3. **[Copy the guided setup prompt](templates/setup-prompt.md)** into your assistant, replace `YOUR_USERNAME/YOUR_PRIVATE_REPO`, and follow the prompts.
+3. **[Copy the guided setup prompt](templates/setup-prompt.md)** into your assistant, paste it unchanged, and follow the prompts. The assistant will ask for your repository name.
 
 That's it for the initial setup. For ongoing use, add the [project instructions](templates/project-instructions.md) to your AI workspace and verify a small test commit.
 
